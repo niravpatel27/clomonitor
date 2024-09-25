@@ -827,7 +827,7 @@ const StatsView = () => {
                           'mt-4': stats.projects.running_total && stats.projects.accepted_distribution,
                         })}
                       >
-                        Distribution of projects by rating
+                        Distribution of projects by levels
                       </div>
 
                       <div className="py-4">
